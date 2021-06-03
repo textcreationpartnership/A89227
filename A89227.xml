@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolution of Major-Generall Monro concerning Lieutenant-Generall Crumwell, and the English forces; and his randezvouz at Hexam-Moor in Northumberland, with 8000 horse and foot, 20 pieces of ordnance, and divers other engines of war. And his declaration at the head of each regiment, touching their engagement. With his protestation to live and die with them. Also, a letter of the proceedings of the Prince of VVales, concerning the raising of new forces to come into England, and the results and proceedings of the States of the United Provinces for the relief of His Highnesse, ... Likewise, the proceedings of the Kings party in the town of Yarmouth, ... As also, the time of the beginning of the treaty, ... Printed for satisfaction of all his Majesties loyall subjects.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89227</idno><idno type="EEBO-CITATION">99872452</idno>
+  <idno type="VID">162201</idno>
+  <idno type="EEBO-PROQUEST">2240942336</idno>
+  
+            <idno type="STC">Wing M2454</idno>
+            <idno type="STC">Thomason E462_22</idno>
+            <idno type="STC">ESTC R36602</idno>
+            <idno type="PROQUEST">99872452</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872452e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89227)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162201)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E462[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolution of Major-Generall Monro concerning Lieutenant-Generall Crumwell, and the English forces; and his randezvouz at Hexam-Moor in Northumberland, with 8000 horse and foot, 20 pieces of ordnance, and divers other engines of war. And his declaration at the head of each regiment, touching their engagement. With his protestation to live and die with them. Also, a letter of the proceedings of the Prince of VVales, concerning the raising of new forces to come into England, and the results and proceedings of the States of the United Provinces for the relief of His Highnesse, ... Likewise, the proceedings of the Kings party in the town of Yarmouth, ... As also, the time of the beginning of the treaty, ... Printed for satisfaction of all his Majesties loyall subjects.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains dispatches from Sept. 1648.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Sept. ye 8th 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Monro, Robert.</term>
+               <term type="personal_name">Cromwell, Oliver, 1599-1658.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162201:1"/>
+            <p>THE RESOLUTION Of Major-Generall MONRO CONCERNING Lieutenant-Generall <hi>CRVMWELL,</hi> and the English For<g ref="char:EOLhyphen"/>ces; and his randezvouz at <hi>Hexam-Moor</hi> in <hi>Northumber<g ref="char:EOLhyphen"/>land,</hi> with 8000 Horse and Foot, 20 Pieces of Ordnance, and divers other Engines of War. And his <hi>Decla<g ref="char:EOLhyphen"/>ration</hi> at the Head of each Regiment, touching their Engagement. With his <hi>Protestation</hi> to live and die with them.</p>
+            <p>Also, a Letter of the proceedings of the Prince of <hi>VVALES,</hi> concerning the raising of new Forces to come into <hi>England,</hi> And the results and proceedings of the States of the United Provinces for the relief of His Highnesse, and allowing Him 1000. Gilders, <hi>per diem.</hi>
+            </p>
+            <p>Likewise, the proceedings of the <hi>Kings party</hi> in the town of <hi>Yar<g ref="char:EOLhyphen"/>mouth,</hi> their assisting of his Highnesse, and opposing the <hi>Par<g ref="char:EOLhyphen"/>liaments forces,</hi> their planting of Ordnance, and arming the town. As also, the time of the beginning of the <hi>Treaty,</hi> the manner thereof, and the particulars wherein they first insist on, 6000. <hi>li.</hi> allowed to His Majesty, Horses, Coach, and other neces<g ref="char:EOLhyphen"/>saries to be sent forthwith unto <hi>Him.</hi>
+            </p>
+            <p>Printed for satisfaction of all his Majesties loyall subjects.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162201:2"/>
+            <pb n="1" facs="tcp:162201:2"/>
+            <head>THE RESOLVTION Of Generall MUNRO Concerning Lieutenant Generall <hi>Crumwel,</hi> and the <hi>English Iron-sider,</hi> their preparation for Battell, and the number of their Army, and their further proceedings touching the Parliament of <hi>England.</hi>
+            </head>
+            <div type="part">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>GEnerall <hi>Munro</hi> with his Army is marched on this side <hi>Appleby,</hi> his forces daily increase consisting of about 8000. and it is reported that 5000. more are joyned with him from <hi>Scotland.</hi> Our Intelligence saith that he is resolved to fight Lie.
+<pb n="2" facs="tcp:162201:3"/> Gen. <hi>Crumwel,</hi> and the rest of the English Forces, resolving rather to die, then yeeld ground, unlesse up<g ref="char:EOLhyphen"/>on advantage.</p>
+               <p>Our forces desires to ingage, but could not passe by the way of <hi>Cumberland</hi> for want of provision, that County and <hi>Westmerland</hi> being exhausted, besides the wet weather and mountainous wayes makes cariages and Artillery unpass<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble had there been provision; in those respects we passed by Skipton upon Craven, &amp; so by the East Coast, where we shall have better op<g ref="char:EOLhyphen"/>portunity to meet our enemy, who we are informed is past at Steinmore in the Bishoprick of <hi>Durh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m,</hi> where is plenty of provision and Anti-covenanters, who bid them welcome to as much benefit, as Colche<g ref="char:EOLhyphen"/>ster got by entertaining the Royall party.</p>
+               <p>Upon Satterday last <hi>Munroes</hi> Army randezvouzed at <hi>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rough</hi> neer <hi>Stainmore</hi> in the Bishoprick wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mu<g ref="char:EOLhyphen"/>stered neer upon 8000. horse and foo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Eng<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Scots and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rish, well armed and resolute.</p>
+               <p>At which Randevouz we hear, that <hi>Munro</hi> decla<g ref="char:EOLhyphen"/>red himself at the head of each Regiment, intimating <hi>His resolution to live and die with them, add to fight it out to the last man.</hi>
+               </p>
+               <p>Then he called a generall councell of all his Officers where it was agreed, <hi>That the Scots and Irish should be commanded back to Perith, and the English into the Bi<g ref="char:EOLhyphen"/>shoprick, and that within two dayes they march <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p to the Randezvouz a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Hexam Moor in Northumberland, whi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h accordingly they did, where was a great appeara<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce,</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r Philip Musgrave joyning with them with a strong par<g ref="char:EOLhyphen"/>ty of horse: the train of Artillery likewise came up, as also 20 piece of Ordnance: and its generally reported
+<pb n="3" facs="tcp:162201:3"/> here that 5000. more are comming out of Scotland, which if true, they will make a very considerable Ar<g ref="char:EOLhyphen"/>my. Divers English resorts from these parts to <hi>Mun<g ref="char:EOLhyphen"/>ro,</hi> who are by their great Landlords incouraged, and promised to sit rent-free for the future.</p>
+               <p>We march slowly, because we wait the coming of Col. Gen. <hi>Lambert</hi> with 4 Regiments whom we expect daily. Sir <hi>Wil. Hudalesion</hi> (a papist) hath raised a con<g ref="char:EOLhyphen"/>siderable party for the King, and besieg<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <hi>Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kermouth</hi> the Lancashire sorces are gone to supprest <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im.</p>
+               <p>Col. <hi>Fen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>icks</hi> horse and some Dragoons went <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>Barwick,</hi> relieved the <hi>Holy Island,</hi> storm'd <hi>Fen<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>stle neer t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Isle, in which was a Scots Garrison, took divers prisoners, put the rest to the sword: they sum<g ref="char:EOLhyphen"/>moned <hi>Hagerston</hi> Garison, but the Scots sallying out of <hi>Berwick</hi> forced them to retreat.</p>
+               <closer>
+                  <dateline>
+                     <hi>Richmond</hi>
+                     <date>4 <hi>Septemb.</hi> 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Septemb. 5.</date>
+                  </dateline>
+               </opener>
+               <p>The Commons ordered the 10000. l. in<g ref="char:EOLhyphen"/>tended for defraying of the charge of the Treaty, <hi>viz.</hi> 500. <hi>l.</hi> to t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Querries for horse charge, 500.<hi>l.</hi> foi those to be employed by the Commissioners, 6000. <hi>l.</hi> his Ma<g ref="char:EOLhyphen"/>jesty is to have for the use of himself, and those about him 3000. <hi>l.</hi> the Commissioners are to have for their occasions, so the quarters and dyet wil be distinct, they will go as soon as money comes in the treaty 40 days: the method will be, 1. recalling <hi>Declarations, Religion, Militia,</hi> then <hi>Ireland,</hi> and so as they fall in order, in which they are to keep as close as possible to the <hi>Pro<g ref="char:EOLhyphen"/>positions.</hi>
+               </p>
+               <p>Tuesday a day of Humiliation for a good end ther<g ref="char:EOLhyphen"/>of, horses, coaches, and other things, are to be speedily sent down to his Majesty.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:162201:4"/>
+               <head>Newes from <hi>Yarmouth,</hi> concerning the proceedings of the Royalists, and their opposing of the Parlia<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nts Forces.</head>
+               <p>FRom <hi>Yarmouth</hi> it is advertized, that some of the Royalists have plaid fast and loose with the Parl. as appears by their accommodating the Prince with provisions of victuals, &amp;c. &amp; particularly a ship some days since laden with barrels of beef, wherein were di<g ref="char:EOLhyphen"/>vers of his Highnesse retinue; which ship when some of the Gen. Dragoons had taken, was rescued by the townsmen, and after past to the Prince: their pretend<g ref="char:EOLhyphen"/>ed permission of us to march through the town, was, for the manner rather as prisoners then souldiers of Parl. for they had set stakes and sayles, leaving onely room for two a breast, planted their Ordnance, com<g ref="char:EOLhyphen"/>manded the town to armes that in case any thing had not liked them they might have fallen upon our men. We expect the General here, and then we hope it will be secured: for intelligence is brought that it it was intended, and it is like will yet be furnished by English Soldiers from <hi>Holland.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>Norwich</hi>
+                     <date>6. <hi>Sept.</hi> 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <p>There is a generall report up and down the Ci<g ref="char:EOLhyphen"/>ty of <hi>London,</hi> that some action hath already happe<g ref="char:EOLhyphen"/>ned between parties, who on sudden engaged, dispu<g ref="char:EOLhyphen"/>ting the place with great difficulty, out the English Iron-sides in policy retreating, drew the Jockies from a place of advantage, rallied, and charged them with great fury and courage, the Irish Jockies received
+<pb n="5" facs="tcp:162201:4"/> them, and stood many a desperate charge, but finding the dispute too hot retreated, our men pursues, who with great gallantry maintains the pursuit to their ve<g ref="char:EOLhyphen"/>ry heels, doing execution: but being some what wea<g ref="char:EOLhyphen"/>ry, returned, taking neer upon 30. prisoners, and killing almost as many, with little or no losse. A sudden En<g ref="char:EOLhyphen"/>gagement is daily expected, <hi>Munro</hi> being resolved to fight.</p>
+               <p>It is likewise reported, that some of the Lieu. Gen. horse have lately beaten up the Scots out quarters in Westmerland, and have taken divers prisoners, putting many of the Irish to the sword, the two Bodies ad<g ref="char:EOLhyphen"/>vance, and are very neer an ingagement, both parties proceed forward, and a field is suddenly expected, po<g ref="char:EOLhyphen"/>licy is the chief Engine which the two Generals make use of, who are exceeding vigilant, in relation to an in<g ref="char:EOLhyphen"/>gagement.</p>
+               <p>We hear that Sir <hi>Philip Musgrave. Sir Robert Strit<g ref="char:EOLhyphen"/>land,</hi> and Sir <hi>VVilliam B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ackstone,</hi> with a party of horse consisting of about five hundred came into <hi>Clevel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd</hi> on Munday last, and began to levy the Countrey for the Trained Bands, but the Inhabitants rising, and the <hi>Dale</hi> men comming into their assistance, they durst not stay long, but presently retreated.</p>
+               <p>And having plundered divers horses, and other Goods in and about the parts adjacent to <hi>Cleveland,</hi> the Inhabitants of the <hi>Middle Dale</hi> put themselves into a posture of defence▪ and hastned to a passage where the Cavalry were to march through, who lay in Am<g ref="char:EOLhyphen"/>buscado for their comming, and upon their approach neer, gave them a volley, which somewhat startled sir <hi>Philip Musgrave</hi> and his forces: Whereupon they
+<pb n="6" facs="tcp:162201:5"/> made a stand, and Sir <hi>Philip</hi> sent a Trumpeter to know the meaning thereof, the <hi>Dale men</hi> returned an<g ref="char:EOLhyphen"/>swer, <hi>That they were resolved to lose their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ives, rather then to be plundered of their estates and goods, and ther<g ref="char:EOLhyphen"/>fore desired restitution of what had been taken from them or th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ir neighbours.</hi>
+               </p>
+               <p>
+                  <hi>Letters from</hi> Holland <hi>say, That great preparations is made at th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Hague <hi>for the entertainment of the Prince of</hi> Wales, <hi>and that divers Courtiers are gone from thence with Coaches, to attend his Royall person from the</hi> Brill. <hi>The common report is, He is to rig the ships again, and those prizes which he got in the Downs, he intends to sell, and with the money to levy some forces. Among the</hi> States <hi>it was disputed, whether he should be entertained by them in a publike way, or whether so much</hi> per diem, <hi>should be allowed unto him for some time. The result its said was that one thousand Gilders should be allowed un<g ref="char:EOLhyphen"/>to him</hi> per diem.</p>
+            </div>
+            <closer>
+               <dateline>Hague
+<date>Septemb. <hi>stylo novo.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
